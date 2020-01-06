@@ -5,20 +5,12 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby version 2.6.3
 
-* System dependencies
+* Mysql2
 
-* Configuration
+* Bulma-rails 0.8
 
-* Database creation
+* Simple-forms
 
-* Database initialization
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
